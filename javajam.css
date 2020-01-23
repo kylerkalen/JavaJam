@@ -1,0 +1,29 @@
+body{ 
+    background-color:#FCEBB6;
+    color:#221822;
+}
+
+header{
+    background-color:#D2B48C;
+}
+
+h1{
+    line-height:200%;
+}
+
+nav{
+    text-align:center;
+    font-weight:bold;
+}
+
+footer{
+    background-color:#D2B48C;
+    font-weight:.60em;
+    text-align: center;
+}
+
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width:80%;
+}
